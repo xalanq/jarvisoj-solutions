@@ -5,37 +5,10 @@
 题目链接：http://web.jarvisoj.com:32772/
 
 ```html
-
 <form action="/" method="post">
   password: <input type="text" name="pass" />
   <input type="submit" value="submit" />
 </form>
-
-```
-
-```
-Request URL: http://web.jarvisoj.com:32772/
-Request Method: GET
-Status Code: 200 OK
-Remote Address: 120.26.131.152:32772
-Referrer Policy: no-referrer-when-downgrade
-Connection: Keep-Alive
-Content-Length: 128
-Content-Type: text/html; charset=UTF-8
-Date: Thu, 01 Aug 2019 14:14:10 GMT
-Hint: "select * from `admin` where password='".md5($pass,true)."'"
-Keep-Alive: timeout=5, max=98
-Server: Apache/2.4.18 (Unix) OpenSSL/1.0.2h PHP/5.6.21 mod_perl/2.0.8-dev Perl/v5.16.3
-X-Powered-By: PHP/5.6.21
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
-Accept-Encoding: gzip, deflate
-Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
-Cache-Control: max-age=0
-Connection: keep-alive
-Cookie: UM_distinctid=16c4870f86866b-09f63f7b86767a-c343162-190140-16c4870f86999e
-Host: web.jarvisoj.com:32772
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
 ```
 
 ## 题解
