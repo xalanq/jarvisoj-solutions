@@ -14,8 +14,8 @@
 - 爱吃培根的出题人
 - Secret
 - Easy Crackme
-- 公倍数
-- 神秘的文件
+- [公倍数](./公倍数.md)
+- [神秘的文件](./神秘的文件.md)
 - [veryeasyRSA](./veryeasyRSA.md)
 - [美丽的实验室logo](./美丽的实验室logo.md)
 - [手贱](./手贱.md)
