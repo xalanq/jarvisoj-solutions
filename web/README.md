@@ -14,7 +14,7 @@
 - Chopper
 - flag在管理员手里
 - RE?
-- IN A Mess
+- [IN A Mess](./IN%20A%20Mess.md)
 - [神盾局的秘密](./神盾局的秘密.md)
 - [Login](./Login.md)
 - [LOCALHOST](./LOCALHOST.md)
