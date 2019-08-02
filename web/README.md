@@ -6,7 +6,7 @@
 - [[61dctf]inject](./[61dctf]inject.md)
 - [[61dctf]admin](./[61dctf]admin.md)
 - [WEB?](./WEB.md)
-- PHPINFO
+- [PHPINFO](./PHPINFO.md)
 - 图片上传漏洞
 - [api调用](./api调用.md)
 - Simple Injection
