@@ -12,7 +12,7 @@
 - [Simple Injection](./Simple%20Injection.md)
 - Easy Gallery
 - Chopper
-- flag在管理员手里
+- [flag在管理员手里](./flag在管理员手里.md)
 - [RE?](./RE.md)
 - [IN A Mess](./IN%20A%20Mess.md)
 - [神盾局的秘密](./神盾局的秘密.md)
