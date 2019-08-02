@@ -9,46 +9,46 @@ Hint1: 此题缺少关键解题文件的问题已修复。
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>My PHP Website</title>
+        <title>My PHP Website</title>
 
-		<link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
-	</head>
-	<body>
-		<nav class="navbar navbar-inverse navbar-fixed-top">
-			<div class="container">
-		    	<div class="navbar-header">
-		    		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-		            	<span class="sr-only">Toggle navigation</span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		          	</button>
-		          	<a class="navbar-brand" href="#">Project name</a>
-		        </div>
-		        <div id="navbar" class="collapse navbar-collapse">
-		          	<ul class="nav navbar-nav">
-		            	<li class="active"><a href="?page=home">Home</a></li>
-		            	<li ><a href="?page=about">About</a></li>
-		            	<li ><a href="?page=contact">Contact</a></li>
-						<!--<li ><a href="?page=flag">My secrets</a></li> -->
-		          	</ul>
-		        </div>
-		    </div>
-		</nav>
+        <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Project name</a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="?page=home">Home</a></li>
+                        <li ><a href="?page=about">About</a></li>
+                        <li ><a href="?page=contact">Contact</a></li>
+                        <!--<li ><a href="?page=flag">My secrets</a></li> -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
-		<div class="container" style="margin-top: 50px">
-			<h1 style="text-align: center">欢迎来到我的网站！<br></h1>
+        <div class="container" style="margin-top: 50px">
+            <h1 style="text-align: center">欢迎来到我的网站！<br></h1>
 <br/>
 <p>您可以使用上面的链接浏览页面！</p>
-		</div>
-		<script src="http://code.jquery.com/jquery-latest.js" />
-		<script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
-	</body>
+        </div>
+        <script src="http://code.jquery.com/jquery-latest.js" />
+        <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
+    </body>
 </html>
 ```
 
@@ -63,43 +63,43 @@ That file doesn't exist!
 ```html
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>My PHP Website</title>
+        <title>My PHP Website</title>
 
-		<link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
-	</head>
-	<body>
-		<nav class="navbar navbar-inverse navbar-fixed-top">
-			<div class="container">
-		    	<div class="navbar-header">
-		    		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-		            	<span class="sr-only">Toggle navigation</span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		          	</button>
-		          	<a class="navbar-brand" href="#">Project name</a>
-		        </div>
-		        <div id="navbar" class="collapse navbar-collapse">
-		          	<ul class="nav navbar-nav">
-		            	<li ><a href="?page=home">Home</a></li>
-		            	<li ><a href="?page=about">About</a></li>
-		            	<li ><a href="?page=contact">Contact</a></li>
-						<!--<li class="active"><a href="?page=flag">My secrets</a></li> -->
-		          	</ul>
-		        </div>
-		    </div>
-		</nav>
+        <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Project name</a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li ><a href="?page=home">Home</a></li>
+                        <li ><a href="?page=about">About</a></li>
+                        <li ><a href="?page=contact">Contact</a></li>
+                        <!--<li class="active"><a href="?page=flag">My secrets</a></li> -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
-		<div class="container" style="margin-top: 50px">
-					</div>
-		<script src="http://code.jquery.com/jquery-latest.js" />
-		<script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
-	</body>
+        <div class="container" style="margin-top: 50px">
+                    </div>
+        <script src="http://code.jquery.com/jquery-latest.js" />
+        <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
+    </body>
 </html>
 ```
 
@@ -133,9 +133,9 @@ templates/home.php
 ```php
 <?php
 if (isset($_GET['page'])) {
-	$page = $_GET['page'];
+    $page = $_GET['page'];
 } else {
-	$page = "home";
+    $page = "home";
 }
 $file = "templates/" . $page . ".php";
 assert("strpos('$file', '..') === false") or die("Detected hacking attempt!");
@@ -143,46 +143,46 @@ assert("file_exists('$file')") or die("That file doesn't exist!");
 ?>
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>My PHP Website</title>
+        <title>My PHP Website</title>
 
-		<link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
-	</head>
-	<body>
-		<nav class="navbar navbar-inverse navbar-fixed-top">
-			<div class="container">
-		    	<div class="navbar-header">
-		    		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-		            	<span class="sr-only">Toggle navigation</span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		            	<span class="icon-bar"></span>
-		          	</button>
-		          	<a class="navbar-brand" href="#">Project name</a>
-		        </div>
-		        <div id="navbar" class="collapse navbar-collapse">
-		          	<ul class="nav navbar-nav">
-		            	<li <?php if ($page == "home") { ?>class="active"<?php } ?>><a href="?page=home">Home</a></li>
-		            	<li <?php if ($page == "about") { ?>class="active"<?php } ?>><a href="?page=about">About</a></li>
-		            	<li <?php if ($page == "contact") { ?>class="active"<?php } ?>><a href="?page=contact">Contact</a></li>
-						<!--<li <?php if ($page == "flag") { ?>class="active"<?php } ?>><a href="?page=flag">My secrets</a></li> -->
-		          	</ul>
-		        </div>
-		    </div>
-		</nav>
+        <link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" />
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Project name</a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li <?php if ($page == "home") { ?>class="active"<?php } ?>><a href="?page=home">Home</a></li>
+                        <li <?php if ($page == "about") { ?>class="active"<?php } ?>><a href="?page=about">About</a></li>
+                        <li <?php if ($page == "contact") { ?>class="active"<?php } ?>><a href="?page=contact">Contact</a></li>
+                        <!--<li <?php if ($page == "flag") { ?>class="active"<?php } ?>><a href="?page=flag">My secrets</a></li> -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
-		<div class="container" style="margin-top: 50px">
-			<?php
-				require_once $file;
-			?>
-		</div>
-		<script src="http://code.jquery.com/jquery-latest.js" />
-		<script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
-	</body>
+        <div class="container" style="margin-top: 50px">
+            <?php
+                require_once $file;
+            ?>
+        </div>
+        <script src="http://code.jquery.com/jquery-latest.js" />
+        <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js" />
+    </body>
 </html>
 ```
 

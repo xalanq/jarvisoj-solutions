@@ -9,7 +9,7 @@
 - [PHPINFO](./PHPINFO.md)
 - 图片上传漏洞
 - [api调用](./api调用.md)
-- Simple Injection
+- [Simple Injection](./Simple%20Injection.md)
 - Easy Gallery
 - Chopper
 - flag在管理员手里
