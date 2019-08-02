@@ -1,9 +1,9 @@
 ## 题目
 
 - [61dctf]babyxss
-- [61dctf]babyphp
+- [[61dctf]babyphp](./[61dctf]babyphp.md)
 - [61dctf]register
-- [61dctf]inject
+- [[61dctf]inject](./[61dctf]inject.md)
 - [[61dctf]admin](./[61dctf]admin.md)
 - [WEB?](./WEB.md)
 - PHPINFO
@@ -13,7 +13,7 @@
 - Easy Gallery
 - Chopper
 - flag在管理员手里
-- RE?
+- [RE?](./RE.md)
 - [IN A Mess](./IN%20A%20Mess.md)
 - [神盾局的秘密](./神盾局的秘密.md)
 - [Login](./Login.md)

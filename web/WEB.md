@@ -49,11 +49,9 @@
 </body></html>
 ```
 
-`app.js` 我下载到了[本地](./assets/app.js)，太长了，稍后再看。
+`app.js` 我下载到了[本地](./assets/app.js)，太长了，稍后再看。header 没啥有用的信息。
 
-header 里有一个 `admin=0`，尝试将其改成 `admin=1`，没啥用。
-
-先尝试提交几次，发现是表单 `passowrd: ' or 1=1--` POST 到了 `http://web.jarvisoj.com:9891/checkpass.json`，尝试注入没啥用。再尝试设置 `admin=1` 提交上去，但是发现怎么样这玩意都会给我的 `Cookie` 最后加一个 `admin=0`，不知道为啥。再去看看 `app.js` 吧。
+先尝试提交几次，发现是表单 `passowrd: ' or 1=1--` POST 到了 `http://web.jarvisoj.com:9891/checkpass.json`，尝试注入没啥用。再去看看 `app.js` 吧。
 
 搜索 `password` 字眼，找到一份这个代码
 
