@@ -4,11 +4,11 @@
 - [61dctf]babyphp
 - [61dctf]register
 - [61dctf]inject
-- [61dctf]admin
-- WEB?
+- [[61dctf]admin](./[61dctf]admin.md)
+- [WEB?](./WEB.md)
 - PHPINFO
 - 图片上传漏洞
-- api调用
+- [api调用](./api调用.md)
 - Simple Injection
 - Easy Gallery
 - Chopper

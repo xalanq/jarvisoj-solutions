@@ -4,14 +4,14 @@
 
 题目链接：http://web.jarvisoj.com:32772/
 
+## 题解
+
 ```html
 <form action="/" method="post">
   password: <input type="text" name="pass" />
   <input type="submit" value="submit" />
 </form>
 ```
-
-## 题解
 
 这提供的信息也太少了吧？？难道是爆破？？？
 

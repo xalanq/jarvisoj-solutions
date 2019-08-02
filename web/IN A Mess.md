@@ -4,14 +4,13 @@
 
 题目入口：http://web.jarvisoj.com:32780/
 
+## 题解
+
 跳转到了 http://web.jarvisoj.com:32780/index.php?id=1
 
 ```html
 <!--index.phps-->work harder!harder!harder!
 ```
-
-
-## 题解
 
 没有有效的信息，只有那个 `?id=1` 比较显眼。
 
