@@ -10,7 +10,7 @@
 - 图片上传漏洞
 - [api调用](./api调用.md)
 - [Simple Injection](./Simple%20Injection.md)
-- Easy Gallery
+- [Easy Gallery](./Easy%20Gallery.md)
 - Chopper
 - [flag在管理员手里](./flag在管理员手里.md)
 - [RE?](./RE.md)
