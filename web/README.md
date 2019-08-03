@@ -7,7 +7,7 @@
 - [[61dctf]admin](./[61dctf]admin.md)
 - [WEB?](./WEB.md)
 - [PHPINFO](./PHPINFO.md)
-- 图片上传漏洞
+- [图片上传漏洞](./图片上传漏洞.md)
 - [api调用](./api调用.md)
 - [Simple Injection](./Simple%20Injection.md)
 - [Easy Gallery](./Easy%20Gallery.md)
