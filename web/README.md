@@ -2,7 +2,7 @@
 
 - [61dctf]babyxss
 - [[61dctf]babyphp](./[61dctf]babyphp.md)
-- [61dctf]register
+- [[61dctf]register](./[61dctf]register.md)
 - [[61dctf]inject](./[61dctf]inject.md)
 - [[61dctf]admin](./[61dctf]admin.md)
 - [WEB?](./WEB.md)
