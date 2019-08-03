@@ -11,7 +11,7 @@
 - [api调用](./api调用.md)
 - [Simple Injection](./Simple%20Injection.md)
 - [Easy Gallery](./Easy%20Gallery.md)
-- Chopper
+- [Chopper](./Chopper.md)
 - [flag在管理员手里](./flag在管理员手里.md)
 - [RE?](./RE.md)
 - [IN A Mess](./IN%20A%20Mess.md)
