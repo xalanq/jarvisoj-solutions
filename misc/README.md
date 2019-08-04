@@ -2,7 +2,7 @@
 
 - 300 [护网杯]WPA2
 - 400 [61dctf]wannacry
-- 300 You Need Python
+- 300 [You Need Python](./You%20Need%20Python.md)
 - 100 [Flag](./Flag.md)
 - 100 [shell流量分析](./shell流量分析.md)
 - 100 [misc100](./misc100.md)
