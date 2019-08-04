@@ -1,6 +1,6 @@
 ## 题目
 
-- [61dctf]babyxss
+- [[61dctf]babyxss](./[61dctf]babyxss.md)
 - [[61dctf]babyphp](./[61dctf]babyphp.md)
 - [[61dctf]register](./[61dctf]register.md)
 - [[61dctf]inject](./[61dctf]inject.md)
