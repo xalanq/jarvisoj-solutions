@@ -100,7 +100,7 @@ import javax.crypto.spec.SecretKeySpec;
 public class Main {
     public static void main(String[] args) {
         try {
-            InputStream open = new FileInputStream(new File("./url.png"));
+            InputStream open = new FileInputStream(new File("url.png"));
             int available = open.available();
             byte[] bArr = new byte[available];
             open.read(bArr, 0, available);

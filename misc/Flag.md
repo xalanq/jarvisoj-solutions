@@ -1,6 +1,6 @@
 ## 描述
 
-![](./Flag.png)
+![](./assets/Flag.png)
 
 ## 题解
 
