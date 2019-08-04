@@ -3,9 +3,9 @@
 - 300 [护网杯]WPA2
 - 400 [61dctf]wannacry
 - 300 You Need Python
-- 100 Flag
-- 100 shell流量分析
-- 100 misc100
+- 100 [Flag](./Flag.md)
+- 100 [shell流量分析](./shell流量分析.md)
+- 100 [misc100](./misc100.md)
 - 250 [XMAN]OFDM
 - 300 [XMAN]上帝之音FSK版
 - 500 Struts2漏洞
