@@ -1,6 +1,6 @@
 ## 题目
 
-- 300 [护网杯]WPA2
+- 300 [[护网杯]WPA2](./[护网杯]WPA2.md)
 - 400 [[61dctf]wannacry](./[61dctf]wannacry.md)
 - 300 [You Need Python](./You%20Need%20Python.md)
 - 100 [Flag](./Flag.md)
