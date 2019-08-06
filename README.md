@@ -9,6 +9,7 @@ https://www.jarvisoj.com/profile/5557
 - [basic](./basic)
 - [web](./web)
 - [misc](./misc)
+- [crypto](./crypto)
 
 # License
 
