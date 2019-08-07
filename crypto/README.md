@@ -22,13 +22,13 @@
 - 300 vigenere
 - 200 superexpress
 - 300 好多盐
-- 300 影之密码
+- 300 [影之密码](./影之密码.md)
 - 500 Jarvis's encryption system
-- 300 神秘的压缩包
+- 300 [神秘的压缩包](./神秘的压缩包.md)
 - 100 简单ECC概念
 - 600 God Like RSA
 - 500 [Extremely hard RSA](./Extremely%20hard%20RSA.md)
 - 400 [very hard RSA](./very%20hard%20RSA.md)
 - 300 [hard RSA](./hard%20RSA.md)
-- 400 BrokenPic
+- 400 [BrokenPic](./BrokenPic.md)
 - 200 [Medium RSA](./Medium%20RSA.md)
