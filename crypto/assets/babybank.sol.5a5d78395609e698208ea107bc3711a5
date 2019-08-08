@@ -1,0 +1,39 @@
+contract babybank {
+    mapping(address => uint) public balance;
+    address owner;
+    uint secret;
+    
+    //Gmail is ok. 163 and qq may have some problems.
+    event sendflag(string b64email); 
+    
+    
+    constructor()public{
+        owner = msg.sender;
+    }
+    
+    //pay for flag
+    function payforflag(string memory b64email) public{
+        require(balance[msg.sender] >= 10000000000);
+        balance[msg.sender]=0;
+        owner.transfer(address(this).balance);
+        emit sendflag(b64email);
+    }
+    
+    modifier onlyOwner(){
+        require(msg.sender == owner);
+        _;
+    }
+    
+    //challenge
+    function profit() public{
+        require(balance[msg.sender]==0);
+        balance[msg.sender]+=3;
+    }
+    
+    function withdraw(uint amount) public{
+        require(amount==2);
+        require(balance[msg.sender] == 3);
+        msg.sender.call.value(amount*100000000000000)();
+        balance[msg.sender] -= amount;
+    }
+}
