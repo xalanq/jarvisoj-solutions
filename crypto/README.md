@@ -19,7 +19,7 @@
 - 200 [61dctf]bbencode
 - 350 Complicated Crypto
 - 300 DSA
-- 300 vigenere
+- 300 [vigenere](./vigenere.md)
 - 200 [superexpress](./superexpress.md)
 - 300 [好多盐](./好多盐.md)
 - 300 [影之密码](./影之密码.md)
