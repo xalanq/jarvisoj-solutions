@@ -23,7 +23,7 @@
 - 200 superexpress
 - 300 [好多盐](./好多盐.md)
 - 300 [影之密码](./影之密码.md)
-- 500 Jarvis's encryption system
+- 500 [Jarvis's encryption system](./Jarvis's%20encryption%20system)
 - 300 [神秘的压缩包](./神秘的压缩包.md)
 - 100 [简单ECC概念](./简单ECC概念.md)
 - 600 [God Like RSA](./God%20Like%20RSA.md)
