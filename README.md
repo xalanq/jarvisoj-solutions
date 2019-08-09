@@ -4,6 +4,8 @@
 
 https://www.jarvisoj.com/profile/5557
 
+每道题的附件我都备份到了这个 repo 里（web 除外），所以不必担心 Jarvis OJ 挂了啥的看不到题了~
+
 目录：
 
 - [basic](./basic)

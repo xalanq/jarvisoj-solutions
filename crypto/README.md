@@ -16,7 +16,7 @@
 - 400 [61dctf]cry
 - 500 [61dctf]rsa
 - 300 [61dctf]rsappend
-- 200 [61dctf]bbencode
+- 200 [[61dctf]bbencode](./[61dctf]bbencode.md)
 - 350 [Complicated Crypto](./Complicated%20Crypto.md)
 - 300 [DSA](./DSA.md)
 - 300 [vigenere](./vigenere.md)
