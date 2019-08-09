@@ -231,4 +231,4 @@ $ RsaCtfTool.py --publickey rsa_public_key.pem --uncipherfile flag.enc
 
 ## 答案
 
-WELLDONE
+flag{W0rld_Of_Crypt0gr@phy}
