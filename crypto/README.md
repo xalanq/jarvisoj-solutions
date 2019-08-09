@@ -15,7 +15,7 @@
 - 50 [xman2019]xbase64
 - 400 [61dctf]cry
 - 500 [61dctf]rsa
-- 300 [61dctf]rsappend
+- 300 [[61dctf]rsappend](./[61dctf]rsappend.md)
 - 200 [[61dctf]bbencode](./[61dctf]bbencode.md)
 - 350 [Complicated Crypto](./Complicated%20Crypto.md)
 - 300 [DSA](./DSA.md)
