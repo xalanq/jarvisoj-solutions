@@ -22,7 +22,13 @@ N1 = 682539584789639341243002157574607232736919252805963092218633759058363871052
 
 解法为论文 Liqiang Peng, Lei Hu, Yao Lu, Jun Xu and Zhangjie Huang. 2016. "Cryptanalysis of Dual RSA"
 
-链接给的代码是 sage 的，必须要装 sagemath 才能运行。。我尝试翻译成原生 Py3 的。。然后到一半发现太难了。。。
+链接给的代码是 sage 的，必须要装 sagemath 才能运行，具体安装教程：
+
+- 去官网下载二进制版本
+- `sage -i giacpy_sage`
+- `sudo apt install libssl1.0.0`
+
+我尝试翻译成原生 Py3 的。。然后到一半发现太难了。。。
 
 ```python
 from sage.all import *
