@@ -9,10 +9,10 @@
 - 200 [xman2019]mediumrpd
 - 100 [xman2019]babyrpd
 - 200 [xman2019]xfz
-- 150 [xman2019]xcc
-- 150 [xman2019]xbitf
-- 50 [xman2019]xcaesar
-- 50 [xman2019]xbase64
+- 150 [[xman2019]xcc](./[xman2019]xcc.md)
+- 150 [[xman2019]xbitf](./[xman2019]xbitf.md)
+- 50 [[xman2019]xcaesar](./[xman2019]xcaesar.md)
+- 50 [[xman2019]xbase64](./[xman2019]xbase64.md)
 - 400 [[61dctf]cry](./[61dctf]cry.md)
 - 500 [[61dctf]rsa](./[61dctf]rsa.md)
 - 300 [[61dctf]rsappend](./[61dctf]rsappend.md)
