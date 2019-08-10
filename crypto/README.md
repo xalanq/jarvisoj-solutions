@@ -3,11 +3,11 @@
 - 100 [[xman2019]xgm](./[xman2019]xgm.md)
 - 400 [xman2019]babybank
 - 200 [xman-2019]QWB-copperstudy
-- 50 [xman2019]xbk
-- 50 [xman2019]xyf
+- 50 [[xman2019]xbk](./[xman2019]xbk.md)
+- 50 [[xman2019]xyf](./[xman2019]xyf.md)
 - 300 [xman2019]hardrpd
 - 200 [xman2019]mediumrpd
-- 100 [xman2019]babyrpd
+- 100 [[xman2019]babyrpd](./[xman2019]babyrpd.md)
 - 200 [xman2019]xfz
 - 150 [[xman2019]xcc](./[xman2019]xcc.md)
 - 150 [[xman2019]xbitf](./[xman2019]xbitf.md)
