@@ -106,4 +106,43 @@ p(xr(b[0], b[1], b[2]))
 
 先搁着！
 
+来了来了，找到题解了：https://github.com/ashutosh1206/Crypton/blob/master/Block-Cipher/CBC-IV-Detection/README.md
+
+![](./assets/xcc.svg)
+
+假设密文有三个块（如上图），CBC 的解密算法是这样的
+
+```
+p1 = D(c1) xor iv
+p2 = D(c2) xor c1
+p3 = D(c3) xor c2
+```
+
+那么我们构造一下这三个密文块，使得
+
+```
+p1' = D(c1) xor iv
+p2' = D("\x00"*blocksize) xor c1
+p3' = D(c3 = c1) xor "\x00"*blocksize = D(c1)
+```
+
+那么 `iv = p1' xor p3'`
+
+```python
+a = 'a' * 16
+print a.encode('hex')
+p1 = raw_input('input p1(hex):').strip().decode('hex')
+b = a + '\x00' * 16 + a
+print b.encode('hex')
+p3 = raw_input('input p3(hex):').strip().decode('hex')
+
+t = ''
+for i in range(16):
+    t += chr(ord(p1[i]) ^ ord(p3[32 + i]))
+
+print t
+```
+
 ## 答案
+
+iv_is_danger_!!!

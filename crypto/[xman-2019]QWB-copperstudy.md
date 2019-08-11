@@ -21,13 +21,19 @@ nc 47.97.215.88 12300
 ```python
 import hashlib
 import struct
+import random
 
-sha = 'a176d7f9062d5540f69b3842fd4d38ce4c01d59d3f1fa95b898b5f78af27c639'
-skr = '70ba5bad07'
+sha = input().strip()
+skr = input().strip()
 
-for i in range(256):
-    for j in range(256):
-        for k in range(256):
+def rg():
+    a = list(range(256))
+    random.shuffle(a)
+    return a
+
+for i in rg():
+    for j in rg():
+        for k in rg():
             t = skr + format(i, '02x') + format(j, '02x') + format(k, '02x')
             if hashlib.sha256(bytes.fromhex(t)).hexdigest() == sha:
                 print(t)
@@ -46,12 +52,6 @@ for i in range(256):
 [-]long_to_bytes(m).encode('hex')=
 ```
 
-RSA 的题，但是发现 e = 3，想到这道题 [Extremely hard RSA](./Extremely%20hard%20RSA.md)，但是这会很慢，赶不来。
-
-再看看题目给的信息，发现只是少了 72 bit 没给我们而已，我们来推一下
-
-令 t = (m >> 72) << 72，r = m & ((1 << 72 - 1)，那么 m^e % n = (t + r)^3 % n = t % n + r % n，而 m^e % n 和 t % n 都已知，
-
-弃坑，据说有好多个问题，才 200 分，一点都不值。
+Least Significant Bit Oracle Attack：https://github.com/ashutosh1206/Crypton/blob/master/RSA-encryption/Attack-LSBit-Oracle/README.md
 
 ## 答案
