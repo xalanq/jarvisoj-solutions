@@ -14,9 +14,7 @@ $ RsaCtfTool.py --dumpkey --key pubkey.pem
 [*] e: 3
 ```
 
-显然这是一个中国剩余定理的题，直接用工具解就好。详细原理见 
-
-https://ctf-wiki.github.io/ctf-wiki/crypto/asymmetric/rsa/rsa_e_attack-zh/#_1
+小公钥指数攻击：https://ctf-wiki.github.io/ctf-wiki/crypto/asymmetric/rsa/rsa_e_attack-zh/#_1
 
 咱就使用这个命令就好
 
