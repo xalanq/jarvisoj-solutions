@@ -8,7 +8,7 @@
 - 300 [[xman2019]hardrpd](./[xman2019]hardrpd.md)
 - 200 [[xman2019]mediumrpd](./[xman2019]mediumrpd.md)
 - 100 [[xman2019]babyrpd](./[xman2019]babyrpd.md)
-- 200 [xman2019]xfz
+- 200 [[xman2019]xfz](./[xman2019]xfz.md)
 - 150 [[xman2019]xcc](./[xman2019]xcc.md)
 - 150 [[xman2019]xbitf](./[xman2019]xbitf.md)
 - 50 [[xman2019]xcaesar](./[xman2019]xcaesar.md)
